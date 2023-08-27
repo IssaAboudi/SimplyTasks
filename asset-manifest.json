@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimplyTasks/static/css/main.8aebb95b.css",
+    "main.js": "/SimplyTasks/static/js/main.85d394ee.js",
+    "index.html": "/SimplyTasks/index.html",
+    "main.8aebb95b.css.map": "/SimplyTasks/static/css/main.8aebb95b.css.map",
+    "main.85d394ee.js.map": "/SimplyTasks/static/js/main.85d394ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aebb95b.css",
+    "static/js/main.85d394ee.js"
+  ]
+}
